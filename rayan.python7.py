@@ -1,0 +1,6 @@
+idade = list(input("digite a sua idade: "))
+print("voce vai ficar doido.")
+type(idade)
+idade=list(idade)
+moradia = list(input("onde voce mora:"))
+print("voce mora em neves.")
